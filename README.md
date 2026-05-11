@@ -11,7 +11,7 @@ I'm looking to collaborate on innovative AI projects, research-oriented work, an
 
 **Programming Languages :**  Python, R, SQL
 
-**Libraries & Frameworks :**   Scikit-learn, GLM, Pandas, NumPy, Dash, Plotly, PyTorch,  OpenCV
+**Libraries & Frameworks :**   Scikit-learn, Matplotlib,Seaborn, Pandas, NumPy, Dash, Plotly, PyTorch, OpenCV
 
 **Visualization & Dashboards :**  Matplotlib, Seaborn, Plotly,Dash
 
