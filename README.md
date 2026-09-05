@@ -7,14 +7,19 @@ I'm currently learning advanced machine learning, deep learning architectures, a
 
 I'm looking to collaborate on innovative AI projects, research-oriented work, and real-world data challenges.
 
-## Tools and technologies
+###  Tools & Technologies
 
-**Programming Languages :**  Python, R, SQL
+**Programming Languages:** Python · R · SQL
 
-**Libraries & Frameworks :**   Scikit-learn, Matplotlib,Seaborn, Pandas, NumPy, Dash, Plotly, PyTorch, OpenCV
+**Machine Learning & Deep Learning:** Scikit-learn · PyTorch · OpenCV · Transfer Learning · Fine-tuning (LoRA/QLoRA)
 
-**Visualization & Dashboards :**  Matplotlib, Seaborn, Plotly,Dash
+**LLM & RAG Engineering:** LangChain · LangGraph · ChromaDB · Hugging Face Transformers · Ollama · Cerebras API
 
+**Data Processing & Analysis:** Pandas · NumPy · SHAP (Model Interpretability)
+
+**Data Visualization & Dashboards:** Matplotlib · Seaborn · Plotly · Dash · Streamlit
+
+**Version Control:** Git · GitHub
 
 ## About me
 I have a sharp analytical mindset and a genuine love for teamwork. I enjoy bridging the gap between complex data and real-world solutions — whether it's through building AI models, collaborating with others, or translating insights into decisions that actually matter.
